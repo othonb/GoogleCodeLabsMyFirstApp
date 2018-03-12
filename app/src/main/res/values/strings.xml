@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="mensagem_principal">Teste de Aplicação Android com Kotlin</string>
+    <string name="random_heading">Aqui está um número randômico entre 0 e %1d</string>
+</resources>
